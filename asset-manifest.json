@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8390345e.css",
-    "main.js": "/static/js/main.b0a3c60e.js",
+    "main.js": "/static/js/main.525dcf55.js",
     "static/media/bg5.jpg": "/static/media/bg5.d60a95eb31d6400f802f.jpg",
     "static/media/mike.jpg": "/static/media/mike.d34d0690a264ad046861.jpg",
     "static/media/nucleo-outline.eot": "/static/media/nucleo-outline.56814a6b7240045e1494.eot",
@@ -13,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.8390345e.css",
-    "static/js/main.b0a3c60e.js"
+    "static/js/main.525dcf55.js"
   ]
 }
